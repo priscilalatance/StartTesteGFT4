@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Priscila\\Desktop\\TesteGFT4\\Exercicio2\\Exercicio2.csproj",
+      "projectUniqueName": "C:\\Users\\Priscila\\Documents\\GitHub\\StartTesteGFT4\\Exercicio2\\Exercicio2.csproj",
       "projectName": "Exercicio2",
-      "projectPath": "C:\\Users\\Priscila\\Desktop\\TesteGFT4\\Exercicio2\\Exercicio2.csproj",
+      "projectPath": "C:\\Users\\Priscila\\Documents\\GitHub\\StartTesteGFT4\\Exercicio2\\Exercicio2.csproj",
       "packagesPath": "C:\\Users\\Priscila\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Priscila\\Desktop\\TesteGFT4\\Exercicio2\\obj\\",
+      "outputPath": "C:\\Users\\Priscila\\Documents\\GitHub\\StartTesteGFT4\\Exercicio2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Priscila\\AppData\\Roaming\\NuGet\\NuGet.Config",
